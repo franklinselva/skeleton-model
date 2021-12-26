@@ -1,5 +1,5 @@
 #!/bin/bash
-echo conversion fichiers stl to obj
+echo Convert files for STL to OBJ
 
 for i in *.stl
 	do
